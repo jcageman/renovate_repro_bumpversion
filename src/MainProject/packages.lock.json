@@ -2,7 +2,7 @@
   "version": 2,
   "dependencies": {
     "net6.0": {
-      "FGL.Domain": {
+      "MyLibrary": {
         "type": "Project",
         "dependencies": {
           "Newtonsoft.Json": "[12.0.1, 12.0.1]"
