@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>FGL.Domain</PackageId>
+    <Version>1.5.0</Version>
+    <Description>FGL.Domain NuGet</Description>
+  </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" />
+    </ItemGroup>
+</Project>
