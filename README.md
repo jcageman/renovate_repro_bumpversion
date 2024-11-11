@@ -9,6 +9,4 @@ Only the `.props` file containing the package version is updated. The `.csproj` 
 
 ## What should happen
 
-Along with the `.props` file version update, all projects with a version tag should be updated
-
-Example result: https://github.com/mdarocha/renovate-packages-lock-bug/pull/5/files
+Along with the `.props` file version update, all projects with a version tag should receive a patch update on their version.
